@@ -1,5 +1,5 @@
-English to French Translator 🗼
-A simple yet powerful English-to-French translation project built using Python and machine learning (or deep learning/NLP APIs, depending on your implementation). This tool enables users to input English text and get accurate French translations.
+## English to French Translator 🗼
+### A simple yet powerful English-to-French translation project built using Python and machine learning (or deep learning/NLP APIs, depending on your implementation). This tool enables users to input English text and get accurate French translations.
 
 📌 Features
 ✅ Translate English sentences to French
